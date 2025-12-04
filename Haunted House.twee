@@ -1,0 +1,119 @@
+:: StoryTitle
+Haunted House
+
+
+:: StoryData
+{
+  "ifid": "D40EAC42-DD87-455A-9BB5-A84CF3175E2B",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Do not enter {"position":"950,1475","size":"100,100"}
+You enter the door sweat pooring out. You think you're out. Then a man comes out of nowhere with a chainsaw and end your life
+Game Over
+
+[[Start]]
+
+
+:: Enter though Front {"position":"550,450","size":"100,100"}
+A ghost scares you dead 
+Game over
+[[Start]]
+
+
+:: Enter though back {"position":"800,450","size":"100,100"}
+You enter though the back door and see a creepy clown
+What do you do
+[[Go toward Clown]]
+[[Run Away like a baby]]
+
+
+
+:: Enter though front {"position":"1175,175","size":"100,100"}
+A ghost scares you dead
+Game Over
+[[Start]] 
+
+
+:: Exit {"position":"1150,1475","size":"100,100"}
+You can't belive its not a trick the Exit sign was actually an exit. Seeing the outside world you run as fast as you can and never come back 
+You win 
+[[Start]]
+
+
+:: Go forward {"position":"1025,975","size":"100,100"}
+You walk forward the walls appear to get smaller and smaller as you walk further and further down the hall
+
+[[continue forward]]
+
+
+:: Go toward Clown {"position":"775,600","size":"100,100"}
+You slowly walk toward the clown and he reaches and grabs a red balloon 
+What do you do
+[[Grab Balloon]]
+[[Push Clown down and go deeper]]
+
+
+:: Grab Balloon {"position":"775,725","size":"100,100"}
+Clown stright up eats you 
+Game over
+[[Start]] 
+
+
+:: Left door {"position":"1025,850","size":"100,100"}
+You walk in and notice theres nothing in the room you can only go stright. You turn around to go out door but notice theres nothing there. The door has disapeered you have no choice to go forward. 
+
+[[Go forward]]
+
+
+:: Look for key {"position":"1025,1225","size":"100,100"}
+You find the key but you don't have much time
+
+[[Put key in door]]
+
+
+:: Push Clown down and go deeper {"position":"900,725","size":"100,100"}
+You run past the clown and run into two doors. You hear a voice saying to take the right door.
+Which one do you take
+
+[[Right door]]
+[[Left door]]
+
+
+:: Put key in door {"position":"1025,1350","size":"100,100"}
+You run though the door and theres a sign that says "Final Challenge" You continue walking and you run into two moor doors
+One door has an exit sign over it the other door says do not enter which door do you take
+
+[[Do not enter]]
+[[Exit]]
+
+
+:: Right door {"position":"900,850","size":"100,100"}
+The voice lied (You should have seen that one coming) A bunch of zombies come out and trample you
+Game Over
+[[Start]] 
+
+
+:: Run Away like a baby {"position":"1050,575","size":"100,100"}
+The clown chases you down and you're never heard from again
+Game Over
+[[Start]] 
+
+
+:: Start {"position":"675,325","size":"100,100"}
+You decide to enter a haunted house 
+Legend has it this place has taken many lives 
+You are scared but curious
+
+[[Enter though Front]] 
+[[Enter though back]]
+
+
+:: continue forward {"position":"1025,1100","size":"100,100"}
+You approch a door with a lock. As you apporch the room starts to shrink you have to find key quickly
+
+[[Look for key]]
